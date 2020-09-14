@@ -8,3 +8,8 @@ This work is licensed under a <a rel="license" href="https://creativecommons.org
 You are free to use images/illustrations in your work (except logo) at certain terms & conditions mentioned in license agreement.
 Along with that, kindly mention attribution to <a rel="work" href="https://meghaggarwal.com">meghaggarwal.com</a>
 for any use of illustration/images in your work.
+
+Some of my Inspiration for making illustrations -<br>
+<a href="https://www.cosminserban.com/">Cosmin Serban</a><br>
+<a href="https://dribbble.com/Liliia_A">Liliia</a><br>
+<a href="https://creativemarket.com/alejik">Alejik</a><br>
