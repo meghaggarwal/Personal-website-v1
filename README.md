@@ -5,6 +5,6 @@ All the illustrations have been done in Adobe illustrator. Static webpages have 
 
 This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a>
 
-You are free to use images/illustrations in your work (except logo).
+You are free to use images/illustrations in your work (except logo) at certain terms to license.
 Kindly mention attribution to <a rel="work" href="https://meghaggarwal.com">meghaggarwal.com</a>
 for any use of illustration/images in your work.
