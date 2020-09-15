@@ -1,5 +1,5 @@
-Code for <a href="https://www.meghaggarwal.com">meghaggarwal.com</a>. <br>
-This is the first version of my website (portfolio).<br>
+
+First version of my website (portfolio) <a href="https://www.meghaggarwal.com">meghaggarwal.com</a>. <br><br>
 All the illustrations have been done in Adobe illustrator. Static webpages have been built using Html, CSS, Javascript & website is hosted on firebase.
 
 
