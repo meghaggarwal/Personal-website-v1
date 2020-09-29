@@ -900,7 +900,7 @@ p.get-in-touch {
   @media screen and (min-width: 820px) {
 
     .project-box .project-overlay , .project-box-2 .project-overlay{
-      max-width:75%;
+      max-width:70%;
     }
 
     .project-img-1 img, .project-img-2 img {
@@ -978,22 +978,26 @@ p.get-in-touch {
     }
 
     .project-box .project-overlay , .project-box-2 .project-overlay{
-      max-width: 85%;
+      max-width: 80%;
     }
 
     .project-img-1 {
-      max-width: 85%;
+      /* max-width: 80%; */
       /* max-width: 70%; */
       
     }
   
-    .project-img-1 img , .project-img-2 img {
-      max-width: 95%;
+    .project-img-1 img  {
+      max-width: 80%;
       /* border: 1px solid #4e5d6c; */
+    }
+
+    .project-img-2 img {
+      max-width: 80%;
     }
   
     .project-img-2 {
-      max-width: 85%;
+      /* max-width: 85%; */
       /* max-width: 70%; */
       
     }
@@ -1031,11 +1035,11 @@ p.get-in-touch {
     }
 
     .project-img-1 img {
-      max-width:  80%;
+      max-width:  70%;
     }
 
     .project-img-2 img  {
-      max-width: 80%;
+      max-width: 70%;
     }
 
     
