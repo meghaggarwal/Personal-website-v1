@@ -345,6 +345,8 @@ section .hero-content-b {
   font-size: 0.7em;
   padding-top: 20px;
   font-family: FuturaBT;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 .project-details img {
