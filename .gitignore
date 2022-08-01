@@ -66,5 +66,4 @@ node_modules/
 .env
 
 #firebase files
-firebase.json
 .firebaserc
