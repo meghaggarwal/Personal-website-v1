@@ -1,3 +1,17 @@
 {
-  "lockfileVersion": 1
+  "lockfileVersion": 1,
+  "name": "Personal-website-v1",
+  "description": "First version of my website (portfolio) <a href=\"https://www.meghaggarwal.com\">meghaggarwal.com</a>. <br><br> All the illustrations have been done in Adobe illustrator. Static webpages have been built using Html, CSS, Javascript & website is hosted on firebase.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meghaggarwal/Personal-website-v1/issues"
+  },
+  "homepage": "https://github.com/meghaggarwal/Personal-website-v1#readme"
 }
